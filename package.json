@@ -1,0 +1,15 @@
+{
+  "name": "google-play-integrity",
+  "description": "Decode and verify integrity verdicts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "googleapis": "^110.0.0"
+  }
+}
